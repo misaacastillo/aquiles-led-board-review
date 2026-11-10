@@ -3,12 +3,12 @@
 Editable KiCad reference for the eight-LED board from Aquiles, with a
 reproducible design-rule and electrical-rule review.
 
+**PCB and schematic design** · Misael Castillo ([@misaacastillo](https://github.com/misaacastillo)).
+
 The board, schematic and project in `board/` are byte-for-byte copies of
 the corresponding files in the [public Aquiles snapshot](https://github.com/ZaCoso/Aquiles_Project/tree/a3d2e4bdd83270054a9b82539448bb7960d39b9d/hardware/placa_leds).
-The public design history credits [MauricioTrillo](https://github.com/ZaCoso/Aquiles_Project/commit/d54e8899d21dca2a3800fe77a9c10dae8305a35c).
-Aquiles is an IMPA TRQ team project. This repository adds the standalone
-review workflow and documentation. The original MIT notice is preserved
-in [LICENSE](LICENSE).
+This repository adds the standalone review workflow and documentation.
+The MIT notice distributed with the source is preserved in [LICENSE](LICENSE).
 
 ## Inspect the design
 
