@@ -1,0 +1,6 @@
+/reports/
+*.kicad_prl
+*-backups/
+.~lock.*
+fp-info-cache
+.DS_Store
