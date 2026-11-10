@@ -19,7 +19,8 @@ and current, and validating the assembled board are separate tasks.
 
 ## Reproduce the review
 
-With KiCad 9.0.9 and Python 3 installed, run these commands from the repo root.
+With KiCad 9.0.9 and Python 3 installed, initialize the default symbol and
+footprint libraries in KiCad. Then run these commands from the repo root.
 
 ```sh
 ./scripts/check.sh
